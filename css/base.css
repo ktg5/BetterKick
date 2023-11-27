@@ -1,0 +1,10 @@
+#betterkick-search.relative.h-full.w-full.grow.pt-5 {
+    flex-grow: 0;
+}
+
+#betterkick-search-cate {
+    background: #333333;
+    border: 1px solid #929292;
+    border-radius: 6px;
+    margin-left: 5px;
+}
